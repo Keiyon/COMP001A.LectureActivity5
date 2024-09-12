@@ -110,3 +110,8 @@ button {
     cursor: pointer; /* Changing the cursor to a pointer */
     transition: all 0.3s ease; /* Adding a transition */
 } 
+
+/* Conditional styling for the hover state */
+button:hover {
+    background-color: red; /* Red background color */
+}
