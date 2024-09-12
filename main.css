@@ -41,3 +41,20 @@ p a {
     text-decoration: none; /* Removing the underline */
 }
 
+/* Styling the unordered list */
+ul {
+    list-style-type: none; /*Removing the bullet points */
+    margin-left: 20px; /* Indenting the list */
+    margin-bottom: 12px; /* Adding some space below the list */
+}
+
+ul li {
+    margin-bottom: 5px; /* Adding some space below each list item */
+    color: #7f8c8d; /* Grayish-blue text color */
+}
+
+/* Styling the unordered list within a div */
+div ul {
+    list-style-type: square; /* Adding the bullet points back */
+}
+
