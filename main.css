@@ -27,3 +27,17 @@ h2 {
     font-size: 1.5em; /* 1.5x the default font size */
     color: #027368; /* Dark teal text color */
 }
+
+/* Styling the paragraph */
+p {
+    font-size: 16px; /* 16px is the default font size */
+    color: #7f8c8d; /* Grayish-blue */
+    margin-bottom: 12px; /* Adding some space below the paragraph */
+}
+
+/* Styling the link within the paragraph */
+p a {
+    color: #f39c12; /* Gold accent */
+    text-decoration: none; /* Removing the underline */
+}
+
