@@ -95,3 +95,9 @@ a {
     border: 1px solid #3498db; /* Bright blue border color */
     transition: all 0.3s ease; /* Adding a transition */
 }
+
+/* Conditional styling for the hover state (when you hover your mouse over the link */
+a:hover {
+    background: #3498db; /* Bright blue background color */
+    color: white; /* White text color */
+}
