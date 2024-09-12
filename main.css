@@ -101,3 +101,12 @@ a:hover {
     background: #3498db; /* Bright blue background color */
     color: white; /* White text color */
 }
+
+/* Styling the button */
+button {
+    padding: 5px 10px; /* Adding some space inside the button */
+    border: none; /* Removing the border */
+    background-color: #ecf0f1; /* Light gray background color */
+    cursor: pointer; /* Changing the cursor to a pointer */
+    transition: all 0.3s ease; /* Adding a transition */
+} 
